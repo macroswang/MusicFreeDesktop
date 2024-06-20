@@ -3,5 +3,9 @@
   "files.associations": {
     "*.html": "html",
     "map": "cpp"
-  }
+  },
+  "i18n-ally.localesPaths": [
+    "res/lang",
+    "src/shared/i18n"
+  ]
 }
